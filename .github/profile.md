@@ -7,7 +7,7 @@
 - **Main Stack:** - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 - **Focus:** 확장 가능한 시스템 설계 및 프론트엔드 성능 최적화
-- **Status:** 🎓 **Woori Fisa 6기** 수강 중 | 🤖 **n8n** 기반 자동화 프로젝트 진행 중
+- **Status:** 🎓 **Woori Fisa 6기 클라우드 엔지니어링** 수강 중 | 🤖 **n8n** 기반 자동화 프로젝트 진행 중
 - **Close:** [Notion Portfolio](본인링크) | [Tech Blog](본인링크)
 
 ## 💡 PR Point
